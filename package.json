@@ -1,0 +1,27 @@
+{
+  "name": "clickatellsms",
+  "version": "0.0.1",
+  "description": "clickatell.com SMS transport",
+  "main": "clickatellSMS.js",
+  "scripts": {
+    "test": "nodemon test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlibekJ/clickatellSMS.git"
+  },
+  "keywords": [
+    "clickatell",
+    "sms"
+  ],
+  "author": "Alibek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlibekJ/clickatellSMS/issues"
+  },
+  "homepage": "https://github.com/AlibekJ/clickatellSMS#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "request": "^2.83.0"
+  }
+}
